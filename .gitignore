@@ -1,0 +1,10 @@
+.vs/
+x64/
+x32/
+x86/
+Debug/
+
+two_cars_cpp/Debug/
+two_cars_cpp/x64/
+two_cars_cpp/x32/
+two_cars_cpp/x86/
